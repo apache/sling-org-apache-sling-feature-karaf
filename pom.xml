@@ -22,7 +22,7 @@
     </parent>
 
     <artifactId>org.apache.sling.feature.karaf</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
     <name>Apache Sling Feature Karaf</name>
@@ -65,13 +65,13 @@
         <dependency>
             <groupId>org.apache.sling</groupId>
             <artifactId>org.apache.sling.feature</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.sling</groupId>
             <artifactId>org.apache.sling.feature.io</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>0.1.0-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
