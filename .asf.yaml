@@ -2,7 +2,17 @@ github:
   description: "Apache Sling Feature Karaf"
   homepage: "https://sling.apache.org/"
   labels:
-    - java
-    - sling
-    - karaf
-    - osgi
+  - "java"
+  - "sling"
+  - "karaf"
+  - "osgi"
+  autolink_jira:
+  - "SLING"
+  - "OAK"
+  - "JCR"
+  - "JCRVLT"
+  - "INFRA"
+  - "FELIX"
+  - "MNG"
+notifications:
+  jira_options: "link"
